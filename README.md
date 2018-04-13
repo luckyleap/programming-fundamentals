@@ -1,4 +1,5 @@
-# My notebook on programming concepts that I've learned in my software engineer journey
+# Programming Fundamentals
+This is a notebook on programming concepts that I've learned in my software engineer journey
 
 ## TO RUN
 install [mkdocs](http://www.mkdocs.org/)
