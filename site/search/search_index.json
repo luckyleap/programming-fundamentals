@@ -1,0 +1,24 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "",
+            "title": "Home"
+        },
+        {
+            "location": "/algorithms/trees/deleteBST/",
+            "text": "Problem\n\n\nYou're given a binary search tree t and an array of numbers queries. Your task is to remove queries[0], queries[1], etc., from t, step by step, following the algorithm above. Return the resulting BST. \nMore Details...\n\n\nSolution\n\n\nTo delete a BST node there are 3 scenarios (Deleting the given node):\n\n\n\n\nEither node's left is none OR node's right is none\n\n\nNode's left and node's left is NOT none\n\n\nNode's left and node's left IS none\n\n\n(Edge) Node is none\n\n\n\n\nIf node only has one child, set node's parent to node's child\nIf both are none, return none\nIf bot children are present ->",
+            "title": "Problem"
+        },
+        {
+            "location": "/algorithms/trees/deleteBST/#problem",
+            "text": "You're given a binary search tree t and an array of numbers queries. Your task is to remove queries[0], queries[1], etc., from t, step by step, following the algorithm above. Return the resulting BST.  More Details...",
+            "title": "Problem"
+        },
+        {
+            "location": "/algorithms/trees/deleteBST/#solution",
+            "text": "To delete a BST node there are 3 scenarios (Deleting the given node):   Either node's left is none OR node's right is none  Node's left and node's left is NOT none  Node's left and node's left IS none  (Edge) Node is none   If node only has one child, set node's parent to node's child\nIf both are none, return none\nIf bot children are present ->",
+            "title": "Solution"
+        }
+    ]
+}
